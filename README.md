@@ -4,4 +4,4 @@
 The incredible responsive Comingsoon Section includes a image and in the mobile version, a beautiful image and design using html css and javascript.
 
 Don't forget to join the channel for more videos like this.
-[SkillMaster](https://www.youtube.com/channel/UCWAxpLP-h8PHCDZMomhc01Q)
+[SKILLMASTER](https://www.youtube.com/channel/UCWAxpLP-h8PHCDZMomhc01Q)
